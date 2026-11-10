@@ -1,0 +1,5 @@
+yarn-error.log*
+.pnpm-store/
+.DS_Store
+build/
+.env.local
